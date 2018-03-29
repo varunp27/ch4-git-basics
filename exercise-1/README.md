@@ -10,6 +10,9 @@ In this exercise you'll practice using git to clone and edit repositories, as wi
 4. On your machine, open up this file (`exercise-1/README.md`) in a text editor of your choice.
 
 5. In the `README.md` file, below these instructions, add an ordered list of what you ate for breakfast today.
+1.tea
+2.pancake
+3.banana
 
 6. Using your terminal, add and commit the changes you've made to your repository
 
